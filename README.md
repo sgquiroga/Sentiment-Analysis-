@@ -9,8 +9,18 @@ Sebastian Quiroga
 ## Not Yet Impemented Features
 - Sentiment Analysis - This analysis will determine the sentiment for each text or phrases. This will help us see which group of text goes with on of the three groups (AJCU, Chatstaff, and LNDL).
 - Predictive Analysis - This analysis will require us to built a predictive model. We want to purpose a way of using predictive analysis to predict the outcome of each text to it's corresponding group.
-## Dependicies
+## Dependecies
 - R (programming language) is required for this project to be compiled.
 - RStudio is required to open the script files for this project. The link to download it is https://rstudio.com/products/rstudio
 - A browser is required to see the R Notebook
 - The data is required, which is provided for the user
+## Instructions for Complication
+- The steps to compile the code are as follows:
+
+1) Have both R and RStudio installed on your device
+2) Make a clone of the repository
+3) Make sure everything is avaliable(data, files, etc.)
+
+## Instructions for Running
+1) Open the .rmd files using RStudio
+2) Run each line of code to see the results
